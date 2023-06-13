@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Run Local DB:
 ```
- .\pocketbase.exe serve^C
+ .\pocketbase.exe serve
 ```
 
 Run the development server:
